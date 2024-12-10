@@ -6,7 +6,7 @@
 This repository contains the source code for the Kalakriti boutique shop website. The website is hosted on Vercel and can be accessed at **https://kalakriti-phi.vercel.app/**.
 
 ## Features
-Responsive design for optimal user experience on various devices
+Responsive design for optimal user experience on various devices<br>
 Easy navigation and user-friendly interface
 High-quality product images and detailed product descriptions
 Secure payment processing and fast shipping options
@@ -21,7 +21,7 @@ Deployment: Vercel
 
 ## Getting Started
 To get started with the project, follow these steps:
-Clone the repository using git clone **https://github.com/KhanjarSingh/UI-Ninjas**
+Clone the repository using git clone **https://github.com/KhanjarSingh/UI-Ninjas**<br>
 Open the website in your browser at h**ttps://kalakriti-phi.vercel.app/**
 
 
