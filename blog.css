@@ -87,8 +87,8 @@ body{
 .content {
     display: flex;
     flex-wrap: wrap;
-    width: 98%; /* Almost full width */
-    margin: 15px auto; /* Very small spacing around the box */
+    width: 98%; 
+    margin: 15px auto; 
     padding: 20px;
     background-color: #ffffff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -97,7 +97,7 @@ body{
 }
 .midsection{
     display: flex;
-    justify-content: space-between; /* Ensures spacing between articles */
+    justify-content: space-between; 
     flex-wrap: wrap;
     width: 98%;
     margin: 10px auto;
