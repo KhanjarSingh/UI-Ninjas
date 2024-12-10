@@ -14,9 +14,9 @@ This repository contains the source code for the Kalakriti boutique shop website
 
 
 ## Technologies Used
-HTML
-CSS
-Deployment: Vercel
+- HTML
+- CSS
+- Deployment: Vercel
 
 
 ## Getting Started
