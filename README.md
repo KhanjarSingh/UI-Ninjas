@@ -1,11 +1,11 @@
-**Kalakriti Boutique Shop**
+## Kalakriti Boutique Shop
 [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fkalakriti-phi.vercel.app%2F)](https://kalakriti-phi.vercel.app/)
 
 
-**Overview**
-This repository contains the source code for the Kalakriti boutique shop website. The website is hosted on Vercel and can be accessed at https://kalakriti-phi.vercel.app/.
+## Overview
+This repository contains the source code for the Kalakriti boutique shop website. The website is hosted on Vercel and can be accessed at **https://kalakriti-phi.vercel.app/**.
 
-**Features**
+## Features
 Responsive design for optimal user experience on various devices
 Easy navigation and user-friendly interface
 High-quality product images and detailed product descriptions
@@ -13,22 +13,19 @@ Secure payment processing and fast shipping options
 Regular updates with new products and promotions
 
 
-**Technologies Used**
+## Technologies Used
 HTML
 CSS
 Deployment: Vercel
 
 
-Getting Started
+## Getting Started
 To get started with the project, follow these steps:
-
-Clone the repository using git clone https://github.com/your-username/kalakriti-phi.git
-Install dependencies using npm install or yarn install
-Start the development server using npm start or yarn start
-Open the website in your browser at (https://kalakriti-phi.vercel.app/)
+Clone the repository using git clone **https://github.com/KhanjarSingh/UI-Ninjas**
+Open the website in your browser at h**ttps://kalakriti-phi.vercel.app/**
 
 
-**Contributing**
+## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
 
 ## License
@@ -36,5 +33,5 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-Contact
-If you have any questions or need help with the project, please don't hesitate to contact me at [@KhanjarSingh].
+## Contact
+If you have any questions or need help with the project, please don't hesitate to contact me at @KhanjarSingh.
