@@ -22,7 +22,7 @@ This repository contains the source code for the Kalakriti boutique shop website
 ## Getting Started
 To get started with the project, follow these steps:
 Clone the repository using git clone **https://github.com/KhanjarSingh/UI-Ninjas**<br>
-Open the website in your browser at h**ttps://kalakriti-phi.vercel.app/**
+Open the website in your browser at **https://kalakriti-phi.vercel.app/**
 
 
 ## Contributing
