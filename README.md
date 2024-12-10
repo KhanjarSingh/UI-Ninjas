@@ -6,11 +6,11 @@
 This repository contains the source code for the Kalakriti boutique shop website. The website is hosted on Vercel and can be accessed at **https://kalakriti-phi.vercel.app/**.
 
 ## Features
-Responsive design for optimal user experience on various devices<br>
-Easy navigation and user-friendly interface
-High-quality product images and detailed product descriptions
-Secure payment processing and fast shipping options
-Regular updates with new products and promotions
+* Responsive design for optimal user experience on various devices<br>
+* Easy navigation and user-friendly interface
+* High-quality product images and detailed product descriptions
+* Secure payment processing and fast shipping options
+* Regular updates with new products and promotions
 
 
 ## Technologies Used
